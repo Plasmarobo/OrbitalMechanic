@@ -1,0 +1,3 @@
+[submodule "js/gameEngine.js"]
+	path = js/gameEngine.js
+	url = git@github.com:Plasmarobo/gameEngine.js.git
